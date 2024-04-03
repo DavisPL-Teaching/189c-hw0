@@ -1,4 +1,4 @@
-# 189c-hw0
+# Homework 0
 
 **This homework is submitted through [Google forms](https://docs.google.com/forms/d/190d2Cs6Q3Dum0sTg-RBprFlNMTYX6gi9tnM6BDt6UwU/edit).**
 
